@@ -35,12 +35,6 @@ python app.py
 3. Enter your question in the input field
 4. Click "Ask" to get an answer based on the processed content
 
-## Technical Details
-
-- Flask web framework for the backend
-- BeautifulSoup4 for web scraping
-- Transformers library with RoBERTa model for question answering
-- Bootstrap for UI styling
 
 ## Note
 
