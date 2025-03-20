@@ -12,7 +12,7 @@ This tool allows users to input URLs, extract content from web pages, and ask qu
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
+git clone [[repository-url]](https://github.com/saythename1725/Web-Content-Q-A-Tool-)
 cd web-content-qa-tool
 ```
 
